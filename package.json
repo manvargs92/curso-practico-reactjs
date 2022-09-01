@@ -1,0 +1,26 @@
+{
+  "name": "curso-practico-reactjs",
+  "version": "1.0.0",
+  "description": "React eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvargs92/curso-practico-reactjs.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "manvargs <micorreo@correo.fake>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manvargs92/curso-practico-reactjs/issues"
+  },
+  "homepage": "https://github.com/manvargs92/curso-practico-reactjs#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
