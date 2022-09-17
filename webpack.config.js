@@ -30,7 +30,8 @@ module.exports = {
                 ]
             },
             {
-                test: /\.s[ac]ss$/i,
+                // test: /\.s[ac]ss$/i,
+                test: /\.(css|scss)$/, // para que trabaje con ambos tipos de archivos
                 use: [
                     "style-loader",
                     "css-loader",
